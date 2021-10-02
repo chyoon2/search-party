@@ -2,9 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Deployed Website
 
-In the project directory, you can run:
+[Deployed Search Party](https://searchparty-hooks-b8qf1wzqq-chyoon2.vercel.app/)
 
 ### `yarn start`
 
