@@ -4,7 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Deployed Website
 
-[Deployed Search Party](https://searchparty-hooks-b8qf1wzqq-chyoon2.vercel.app/)
+[Deployed Search Party via Vercel](https://searchparty-hooks-b8qf1wzqq-chyoon2.vercel.app/)
+
+[Deployed Search Party via Netlify](https://dreamy-jepsen-0442f7.netlify.app/)
+https://dreamy-jepsen-0442f7.netlify.app/
 
 ### `yarn start`
 
